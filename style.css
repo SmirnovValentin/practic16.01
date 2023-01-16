@@ -1,0 +1,76 @@
+/* ===================== */
+main {
+  max-width: 1920px;
+display: flex;
+  margin: auto;
+}
+/* ===================== */
+/* ===================== */
+/* ===================== */
+.container_1 {
+  display: flex;
+  margin-top: 40px;
+
+  justify-content: space-around;
+  align-items:center;
+}
+
+.left_text{
+ max-width: 576px;
+ height: 300px;
+  font-family: "Catamaran";
+  font-style: normal;
+  
+
+ 
+}
+.up {
+
+  color: #000000;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+font-size: 75px;
+line-height: 100px ;
+
+}
+.down{
+ 
+  font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+letter-spacing: 0.03em;
+color: #153461;
+opacity: 0.65;
+  text-align: left;
+  
+}
+.colortext {
+  color: #fbb400;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+font-size: 75px;
+line-height: 100px ;
+  
+}
+.right_picture{
+  justify-content: space-around;
+  align-items: end;
+
+  position: relative;
+  
+  
+}
+.button_1{
+  position: absolute;
+  color: white;
+  background: #99BAED;
+border-radius: 20px;
+width: 188px;
+height: 75px;
+margin-top: 30px;
+}
+
